@@ -1,2 +1,3 @@
-# Labs_MC102
-Laboratórios de MC102 2021S1
+# MC102
+
+Exercises and projects proposed in the first period of college in an Algorithms course
